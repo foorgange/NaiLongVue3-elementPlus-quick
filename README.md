@@ -1,4 +1,4 @@
-# vite-nailong 项目说明
+# vue3-elementPlus-quick 项目说明
 
 这是一个基于 Vue 3 和 Vite 的前端项目模板，集成了 Element Plus 组件库、Axios 网络请求库和 Vue Router 路由管理，旨在可以帮助开发者快速搭建现代化的 Vue 单页应用。
 
