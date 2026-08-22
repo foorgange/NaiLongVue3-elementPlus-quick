@@ -1,4 +1,4 @@
-# 奶龙管理系统demo - Vite 前端模板
+# 奶龙管理系统 Demo - Vite 前端模板
 
 基于 Vue 3 + Vite 构建的奶龙管理系统前端 Demo，集成 Element Plus 组件库、Vue Router 路由管理和 Axios 网络请求，专注于奶龙及奶龙类型的管理功能，提供快速搭建单页应用的基础框架。
 
@@ -40,8 +40,6 @@ npm run preview
 ```
 
 ## 项目结构
-
-plaintext
 
 ```plaintext
 vite-nailong/
